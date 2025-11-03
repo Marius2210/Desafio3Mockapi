@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Desafio3Mockapi</string>
+    <string name="cargando">Cargando...</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="imagen_recurso_description">Imagen de previsualización del recurso de aprendizaje</string>
+    <string name="ver_enlace">Ver Enlace</string>
+
+    <string name="titulo_login">Bienvenido a Recursos de Aprendizaje</string>
+    <string name="titulo_registro">Crear Cuenta</string>
+    <string name="et_correo">Correo Electrónico</string>
+    <string name="et_contrasena">Contraseña</string>
+    <string name="btn_iniciar_sesion">Iniciar Sesión</string>
+    <string name="btn_registrar">Registrarse</string>
+    <string name="ya_tienes_cuenta">¿Ya tienes cuenta?</string>
+    <string name="no_tienes_cuenta">¿No tienes cuenta?</string>
+    <string name="btn_ir_a_registro">Crear una ahora</string>
+    <string name="btn_ir_a_login">Volver al Login</string>
+    <string name="btn_logout">Cerrar Sesión</string>
+
+    <string name="error_contrasena_general">La contraseña no cumple con todos los requisitos.</string>
+    <string name="error_contrasena_longitud">Debe tener al menos 8 caracteres.</string>
+    <string name="error_contrasena_mayuscula">Debe contener al menos una letra mayúscula.</string>
+    <string name="error_contrasena_minuscula">Debe contener al menos una letra minúscula.</string>
+    <string name="error_contrasena_numero">Debe contener al menos un número.</string>
+    <string name="error_contrasena_especial">Debe contener al menos un carácter especial (!@#$%^&amp;*).</string>
+    <string name="error_email_invalido">Por favor, ingrese un correo electrónico válido.</string>
+    <string name="error_campos_vacios">Todos los campos son obligatorios.</string>
+
+    <string name="titulo_listado">Lista de Recursos de Aprendizaje</string>
+    <string name="menu_agregar">Agregar Recurso</string>
+    <string name="menu_filtrar">Filtrar</string>
+    <string name="menu_ordenar">Ordenar</string>
+    <string name="hint_busqueda">Buscar por Título, Tipo o ID...</string>
+
+    <string name="titulo_agregar_recurso">Nuevo Recurso</string>
+    <string name="titulo_modificar_recurso">Editar Recurso</string>
+    <string name="et_titulo">Título del Recurso</string>
+    <string name="et_descripcion">Descripción Corta</string>
+    <string name="et_tipo">Tipo (Ej: Video, Libro, Tutorial)</string>
+    <string name="et_enlace">Enlace (URL)</string>
+    <string name="et_url_imagen">URL de la Imagen</string>
+    <string name="btn_guardar">Guardar Recurso</string>
+    <string name="btn_eliminar">Eliminar</string>
+
+    <string name="dialog_confirmar_eliminar_titulo">Confirmar Eliminación</string>
+    <string name="dialog_confirmar_eliminar_mensaje">¿Está seguro que desea eliminar este recurso de forma permanente?</string>
+
+    <string name="recurso_agregado_exito">Recurso agregado con éxito.</string>
+    <string name="recurso_modificado_exito">Recurso modificado con éxito.</string>
+    <string name="recurso_eliminado_exito">Recurso eliminado con éxito.</string>
+    <string name="error_general_api">Ocurrió un error al comunicarse con el servidor.</string>
+    <string name="et_titulo_recurso">Titulo</string>
+    <string name="et_descripcion_corta">Descripcion</string>
+    <string name="et_tipo_recurso">Tipo de recurso</string>
+    <string name="et_url_recurso">URL del recurso</string>
+    <string name="btn_guardar_recurso">Guardar recurso</string>
+    <string name="btn_add">Agregar</string>
+    <string name="titulo_agregar">Agregar Nuevo Recurso</string>
+    <string name="titulo_editar">Editar Recurso</string>
+    <string name="btn_actualizar">Actualizar Recurso</string>
+</resources>
