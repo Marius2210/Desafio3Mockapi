@@ -45,7 +45,7 @@ class MainActivity : AppCompatActivity(), RecursosAdapter.OnRecursoClickListener
 
         sessionManager = SessionManager(applicationContext)
 
-        // PASO CLAVE: Configurar el Toolbar personalizado como ActionBar
+        //Configurar el Toolbar personalizado como ActionBar
         val toolbar = binding.mainToolbar
         setSupportActionBar(toolbar)
 

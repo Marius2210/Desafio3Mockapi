@@ -51,7 +51,7 @@ class LoginActivity : AppCompatActivity() {
             return
         }
 
-        //Simulación de Login exitoso y creación de sesión**
+        //Simulación de Login exitoso y creación de sesión
         if (ValidationUtil.isEmailValid(email)) {
             sessionManager.createLoginSession(email)
             Toast.makeText(this, "Sesión iniciada como $email", Toast.LENGTH_SHORT).show()
